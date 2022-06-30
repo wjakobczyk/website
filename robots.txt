@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rust.audio/sitemap.xml
